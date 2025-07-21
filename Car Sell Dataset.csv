@@ -1,0 +1,60 @@
+Count of Brand,Column Labels,,,,,
+Row Labels,CNG,Diesel,Electric,Hybrid,Petrol,Grand Total
+Honda,1172,3613,265,243,6643,11936
+Hyundai,2245,6625,439,436,12345,22090
+Mahindra,980,2958,212,189,5279,9618
+Maruti Suzuki,5341,15952,1075,1069,30593,54030
+Toyota,1094,3057,226,210,5896,10483
+Grand Total,10832,32205,2217,2147,60756,108157
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Count of Brand,Column Labels,,,,,
+Row Labels,Hatchback,Luxury,MPV,Sedan,SUV,Grand Total
+Honda,2368,,,7178,2390,11936
+Hyundai,9557,,,6230,6303,22090
+Mahindra,,,,,9618,9618
+Maruti Suzuki,35832,,6037,12161,,54030
+Toyota,2096,,2061,2084,4242,10483
+Grand Total,49853,,8098,27653,22553,108157
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Count of Brand,Column Labels,,,,,
+Row Labels,1st,2nd,3rd+,Grand Total,,
+Honda,5943,5065,928,11936,,
+Hyundai,11598,8904,1588,22090,,
+Mahindra,4543,4184,891,9618,,
+Maruti Suzuki,28579,21819,3632,54030,,
+Toyota,5656,4129,698,10483,,
+Grand Total,56319,44101,7737,108157,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Count of Accidental,Column Labels,,,,,
+Row Labels,No,Yes,Grand Total,,,
+Honda,10936,1000,11936,,,
+Hyundai,20363,1727,22090,,,
+Mahindra,8839,779,9618,,,
+Maruti Suzuki,49726,4304,54030,,,
+Toyota,9615,868,10483,,,
+Grand Total,99479,8678,108157,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Count of Brand,Column Labels,,,,,
+Row Labels,Delhi,Gujarat,Karnataka,Maharashtra,Tamil Nadu,Grand Total
+Honda,1882,1096,1674,2054,1124,7830
+Hyundai,3387,1944,3009,3864,2105,14309
+Mahindra,1480,886,1311,1659,924,6260
+Maruti Suzuki,8221,4685,7265,9532,5318,35021
+Toyota,1613,922,1317,1789,1011,6652
+Grand Total,16583,9533,14576,18898,10482,70072
